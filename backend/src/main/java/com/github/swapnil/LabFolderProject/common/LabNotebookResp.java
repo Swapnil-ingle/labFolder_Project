@@ -1,7 +1,7 @@
 package com.github.swapnil.LabFolderProject.common;
 
 /**
- * Generic object used to envelope all the response sent out from any controllers
+ * Generic response-wrapper object used to envelope all the responses sent out from any controllers
  * 
  * @author Swapnil I.
  *
