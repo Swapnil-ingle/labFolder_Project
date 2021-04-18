@@ -32,3 +32,15 @@ I've ensured to keep the code high-quality, readable and loosely coupled. Mentio
 - UI: Better component delimition (currently everything is crammed into a single BaseCard.jsx component).
 
 ## Screenshot(s) of UI
+
+### Idle Screen
+
+![alt text](https://github.com/Swapnil-ingle/labFolder_Project/blob/main/Img/labfolder-project-ui-idle.png "Screenshot: Idle Screen")
+
+### Similar
+
+![alt text](https://github.com/Swapnil-ingle/labFolder_Project/blob/main/Img/labfolder-project-ui-similar.png "Screenshot: Frequency Check Screen")
+
+### Frequency
+
+![alt text](https://github.com/Swapnil-ingle/labFolder_Project/blob/main/Img/labfolder-project-ui-frequency.png "Screenshot: Frequency Check Screen")
